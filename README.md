@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-In preperation for what is being coined the "silve tsuname" at Pewlett-Hackard, the analysis below looks to the number of retiring employees, as well as employees that qualify for the mentorship.
+In preperation for what is being coined the "silve tsuname" at Pewlett-Hackard, the analysis below looks to the number of retiring employees, as well as employees that qualify for the mentorship program.
 
 ## Results
   - Retirement Titles table (titles of current employees who were born between January 1, 1952 and December 31, 1955)
