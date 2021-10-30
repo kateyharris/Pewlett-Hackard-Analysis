@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-In preperation for what is being coined the "silve tsuname" at Pewlett-Hackard, the analysis below looks to the number of<br />
+In preperation for what is being coined the "silver tsuname" at Pewlett-Hackard, the analysis below looks to the number of<br />
 retiring employees, as well as employees that qualify for the mentorship program.
 
 ## Results
