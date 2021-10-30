@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-In preperation for what is being coined the "silver tsuname" at Pewlett-Hackard, the analysis below looks to the number of<br />
+In preperation for what is being coined the __*"silver tsuname"*__ at Pewlett-Hackard, the analysis below looks to the number of<br />
 retiring employees, as well as employees that qualify for the mentorship program.
 
 ## Results
@@ -21,6 +21,7 @@ retiring employees, as well as employees that qualify for the mentorship program
   1940 rows 
   
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based on employees qualified retirement age, analysis of Pewlett-Hackard employees born between 1952, and 1955, over 90,000 qualify for retirement!<br />
+This event that anticipates this huge number of employees retiring at the same time has been coined the 	__*"silver tsunami."*__ When evaluating which of those 90,000 employees are retiring, more than half of them hold Senior titles, so tenured packages should be expected to have a large financial impact on the company. Current analysis is by title, but I would recommend further analysis by department as well.<br />
+90398 roles will need to be filled as the "silver tsunami" begins to make an impact.<br />
+Currently there are only 1940 qualified, retirement-ready employees in the departments, to mentor the next generation of Pewlett-Hackard employees. This would  mean each mentor would be responsible for mentoring approximatly 47 new employees, each! 
