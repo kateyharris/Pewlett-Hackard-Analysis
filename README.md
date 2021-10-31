@@ -25,8 +25,8 @@ retiring employees, as well as employees that qualify for the mentorship program
 ## Summary
 Based on employees qualified retirement age, analysis of Pewlett-Hackard employees born between 1952, and 1955,  over 70,000 qualify for retirement, that have not already retired!<br />
 This event that anticipates such a huge number of employees retiring at the same time, has been coined the 	__*"silver tsunami."*__ <br />
-When evaluating which of those 70,000+ employess are retureing, more than hal of them hold senior titles, so tenured packages should be expected to have a large financial impact on the company. Current analysis is by title, but I would recommend further analysis by department as well.<br />
+When evaluating which of those 70,000+ employess are retiring, more than half of them hold senior titles, so tenured packages should be expected to have a large financial impact on the company. Current analysis is by title, but I would recommend further analysis by department as well.<br />
 72,458 roles will need to be filled as the "silver tsunami" begins to make an impact.<br />
 25,916 of those retiring hold the prestigious title of Senior Engineer, whose extensive experience and knowledge should be missed.<br />
-Currently there is only 1549 qualified, retirement-ready employees, in all departments, to mentor the next generation of Pewlett-Hackard employees.
-This would mean each mentor would be resonsible for mentoring approximatly 3 new employees, each.
+Currently there is only 1,549 qualified, retirement-ready employees, in all departments, to mentor the next generation of Pewlett-Hackard employees.
+This would mean each mentor would be resonsible for mentoring at least 3 new employees, each.
